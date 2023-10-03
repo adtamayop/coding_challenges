@@ -2,3 +2,5 @@
 Recopilación de diferentes retos algoritmicos.
 
 PR
+
+PR2
