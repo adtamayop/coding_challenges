@@ -1,2 +1,0 @@
-# Título problema
-Descripción problema
