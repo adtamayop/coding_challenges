@@ -1,2 +1,2 @@
 # coding_challenges
-Recopilación de diferentes retos algorítmicos.
+Recopilación de diferentes retos algorítmicos
